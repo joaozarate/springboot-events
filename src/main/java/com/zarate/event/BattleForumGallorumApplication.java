@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootEventsApplication {
+public class BattleForumGallorumApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootEventsApplication.class, args);
+		SpringApplication.run(BattleForumGallorumApplication.class, args);
 	}
 
 }
